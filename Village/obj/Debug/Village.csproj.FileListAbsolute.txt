@@ -1,0 +1,13 @@
+C:\Users\39260\source\repos\Village\Village\bin\Debug\Village.exe.config
+C:\Users\39260\source\repos\Village\Village\bin\Debug\Village.exe
+C:\Users\39260\source\repos\Village\Village\bin\Debug\Village.pdb
+C:\Users\39260\source\repos\Village\Village\obj\Debug\Village.csprojAssemblyReference.cache
+C:\Users\39260\source\repos\Village\Village\obj\Debug\Village.MainForm.resources
+C:\Users\39260\source\repos\Village\Village\obj\Debug\Village.Properties.Resources.resources
+C:\Users\39260\source\repos\Village\Village\obj\Debug\Village.ViewForm1.resources
+C:\Users\39260\source\repos\Village\Village\obj\Debug\Village.csproj.GenerateResource.cache
+C:\Users\39260\source\repos\Village\Village\obj\Debug\Village.csproj.CoreCompileInputs.cache
+C:\Users\39260\source\repos\Village\Village\obj\Debug\Village.exe
+C:\Users\39260\source\repos\Village\Village\obj\Debug\Village.pdb
+C:\Users\39260\source\repos\Village\Village\obj\Debug\Village.ViewForm2.resources
+C:\Users\39260\source\repos\Village\Village\obj\Debug\Village.ViewForm3.resources
